@@ -1,0 +1,16 @@
+{
+    "namespace": "lighthouse-Content",
+    "references": [ "lighthouse" ],
+    "items": {
+        "includes": [
+            {
+                "name": "content",
+                "path": "/sitecore/content/lighthouse"
+            },
+            {
+                "name": "media",
+                "path": "/sitecore/media library/lighthouse"
+            }
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "namespace": "lighthouse",
+    "references": [ "InitItems" ],
+    "items": {
+        "includes": [
+            {
+                "name": "layouts",
+                "path": "/sitecore/layout/Layouts/Project/lighthouse"
+            },
+            {
+                "name": "placeholders",
+                "path": "/sitecore/layout/Placeholder Settings/Project/lighthouse"
+            },
+            {
+                "name": "renderings",
+                "path": "/sitecore/layout/Renderings/Project/lighthouse"
+            },
+            {
+                "name": "templates",
+                "path": "/sitecore/templates/Project/lighthouse"
+            }
+        ]
+    }
+}
