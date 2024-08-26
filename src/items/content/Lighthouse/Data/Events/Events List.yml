@@ -1,0 +1,40 @@
+﻿---
+ID: "d649eef6-e348-49c4-8a4c-bdb91541c9bb"
+Parent: "49ad8d03-e1d4-4c31-8271-2b6030208c77"
+Template: "a45cd1ca-fec0-4c43-af32-9101d1f8c133"
+Path: /sitecore/content/HeadlessTenant/Lighthouse/Data/Events/Events List
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: "{62C2B7D0-1C34-4AA6-B3D3-5D612C0891BD}"
+- ID: "b0af30ce-8648-468d-a4e3-9afff7e003da"
+  Hint: EventTypes
+  Value: "{07FC9704-7DDD-4E47-A524-943401246C4D}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210601T164639Z
+    - ID: "4ecfb5f0-7af8-4591-8f5d-4e49fb35b902"
+      Hint: Title
+      Value: Events List
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Wendy
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "900ec910-37e8-4d6c-a08d-d891cbd24ef5"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240820T080455Z

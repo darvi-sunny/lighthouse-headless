@@ -1,0 +1,56 @@
+﻿---
+ID: "e9020050-4be7-4508-ba29-5c288dcbcd67"
+Parent: "80f7ec0a-a90e-4108-b05a-9f1e1ffc62a5"
+Template: "ea45c3ad-8e63-4e2a-bcc0-9e4c06f2aa12"
+Path: /sitecore/content/HeadlessTenant/Lighthouse/Data/Search/Radius Filter/Radius Scheme Km/500km
+SharedFields:
+- ID: "4f892959-fde6-4020-8569-2cf934ba412c"
+  Hint: Value
+  Value: 500
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200526T163818Z
+    - ID: "6f0451f9-bf0e-4420-ad61-82bb14a257f9"
+      Hint: Title
+      Value: 500 km
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ec12365f-586a-4e1b-bdd7-deef7538cc52"
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200526T163818Z
+    - ID: "6f0451f9-bf0e-4420-ad61-82bb14a257f9"
+      Hint: Title
+      Value: 500 km
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cd6c1640-7c6d-4708-8bc9-971121d03f97"
+  - Version: 3
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200526T163818Z
+    - ID: "6f0451f9-bf0e-4420-ad61-82bb14a257f9"
+      Hint: Title
+      Value: 500 km
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "818209c1-a331-400a-bb77-8109a82b8750"
+  - Version: 4
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200526T163818Z
+    - ID: "6f0451f9-bf0e-4420-ad61-82bb14a257f9"
+      Hint: Title
+      Value: 500 km
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2f410838-907c-49e7-a88f-d46c6dda34f8"

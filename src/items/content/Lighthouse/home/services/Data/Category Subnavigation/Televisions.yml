@@ -1,0 +1,68 @@
+﻿---
+ID: "2f273a09-d132-4d49-9fe4-e5dc4402d46e"
+Parent: "a41972c3-9eb4-4d75-bef7-e5e1436f3a95"
+Template: "ddb08f92-1cc2-43e2-b5c1-fe7f98e32ec9"
+Path: /sitecore/content/HeadlessTenant/Lighthouse/home/services/Data/Category Subnavigation/Televisions
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: "20180218T094443:636545438831605720Z"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ce4834a3-3f69-482f-8c28-f776f98071c3"
+    - ID: "a3555ef5-6619-441d-b4db-da3fd5f9c770"
+      Hint: Navigation Image
+      Value: 
+    - ID: "dd05144a-bd66-4ea3-956a-4b7104daaba3"
+      Hint: Link
+      Value: |
+        <link linktype="external" text="Extended Warranty" url="https://content.sitecoredemo.com/shop/Warranties-and-Installations" anchor="" target="" />
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: "20180218T094443:636545438831605720Z"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "950dc606-73b2-41fc-878a-f58ad4fdcc6e"
+    - ID: "a3555ef5-6619-441d-b4db-da3fd5f9c770"
+      Hint: Navigation Image
+      Value: 
+    - ID: "dd05144a-bd66-4ea3-956a-4b7104daaba3"
+      Hint: Link
+      Value: |
+        <link linktype="external" text="Extended Warranty" url="https://content.sitecoredemo.com/shop/Warranties-and-Installations" anchor="" target="" />
+  - Version: 3
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: "20180218T094443:636545438831605720Z"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0975a290-394f-48b3-9bbc-16fc4a8ea264"
+    - ID: "a3555ef5-6619-441d-b4db-da3fd5f9c770"
+      Hint: Navigation Image
+      Value: 
+    - ID: "dd05144a-bd66-4ea3-956a-4b7104daaba3"
+      Hint: Link
+      Value: |
+        <link linktype="external" text="Extended Warranty" url="https://content.sitecoredemo.com/shop/Warranties-and-Installations" anchor="" target="" />
+  - Version: 4
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: "20180218T094443:636545438831605720Z"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "10c43394-4015-4cd1-b4b5-3d2e0ff87f00"
+    - ID: "a3555ef5-6619-441d-b4db-da3fd5f9c770"
+      Hint: Navigation Image
+      Value: 
+    - ID: "dd05144a-bd66-4ea3-956a-4b7104daaba3"
+      Hint: Link
+      Value: |
+        <link linktype="external" text="Extended Warranty" url="https://content.sitecoredemo.com/shop/Warranties-and-Installations" anchor="" target="" />

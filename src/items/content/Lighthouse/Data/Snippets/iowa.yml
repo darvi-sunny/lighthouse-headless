@@ -1,0 +1,20 @@
+﻿---
+ID: "54945ac9-1b3b-48a7-80c9-888204ac3b29"
+Parent: "d3292aa7-ceb1-4105-9af9-6f2eb1758b67"
+Template: "2b35e65c-137a-4641-b683-d223ca7cfac0"
+Path: /sitecore/content/HeadlessTenant/Lighthouse/Data/Snippets/iowa
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210526T183453Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\superuser
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c29b6fe6-2e06-47e9-95eb-1df1a54b5ce5"

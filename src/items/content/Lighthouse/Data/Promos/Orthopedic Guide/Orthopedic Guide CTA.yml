@@ -1,0 +1,66 @@
+﻿---
+ID: "beaaaab1-a181-4a57-be8f-0b98b128474d"
+Parent: "e7ba310b-1eb5-40f8-9b65-074f520ee8cf"
+Template: "dfed4457-d760-457a-bec1-c0dccdc44381"
+Path: /sitecore/content/HeadlessTenant/Lighthouse/Data/Promos/Orthopedic Guide/Orthopedic Guide CTA
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{C6EBE5E6-BCE3-4BAB-A5F9-16382F8369FE}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210311T000637Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{E93E190F-3398-489D-B3A3-A3B0D9BB33C5}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\superuser
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d60811c4-499d-44ca-8ae9-280beb4974fa"
+  - Version: 2
+    Fields:
+    - ID: "1f66862d-a5e3-405f-8e3e-b787b4c39b12"
+      Hint: PromoText2
+      Value: |
+        <span style="color: rgb(62, 62, 62); font-family: SharpSans, Arial, sans-serif; font-size: 16px; font-style: normal; font-weight: 600; background-color: rgb(247, 247, 247);">Depending on the type of procedure, a patient could experience side effects from anesthesia. Some of the most common effects could include dizziness, vomiting, drowsiness and a sore throat.</span>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210311T000637Z
+    - ID: "28079f3a-896b-4273-be5f-59d0ebb7cd7d"
+      Hint: PromoText
+      Value: |
+        <h2 class="section-heading underline-title" style="margin-top: -5px; font-weight: 800; font-family: SharpSans, Arial, sans-serif; color: #008fbe; font-size: 36px;  font-style: normal;">Knee replacement surgery guide</h2>
+        <div id="fpCE_version" style="display:none;">8.6.1</div>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{E93E190F-3398-489D-B3A3-A3B0D9BB33C5}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\superuser
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "13197296-aeb0-47ca-b991-76e29657d98d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240820T080500Z
+    - ID: "ef24bed2-46ab-4d53-ad1a-1019935a4e89"
+      Hint: PromoLink
+      Value: |
+        <link linktype="external" text="Read Guide" url="" anchor="" target="" />
+    - ID: "f94b9858-c439-4291-863b-757b536c8b65"
+      Hint: PromoIcon
+      Value: |
+        <image mediaid="{DE407E2A-ED6B-4000-9B2C-76B2F93D61E7}" ></image>

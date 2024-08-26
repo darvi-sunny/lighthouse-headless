@@ -1,0 +1,108 @@
+﻿---
+ID: "315ce336-3d1c-4049-aef3-6b0a57d9153e"
+Parent: "9894d41b-f3a4-4b6b-a0bc-a692fb0545b5"
+Template: "aaad4aad-2907-44dc-90b6-9e4e83a661ec"
+Path: /sitecore/content/HeadlessTenant/Lighthouse/Data/Search/Location Filter/LocationsKm
+SharedFields:
+- ID: "8a67fca9-7e15-4b7c-b6b8-86f37cafe720"
+  Hint: Facet
+  Value: "{3BCAD9CA-606B-4A71-862B-DCC0648615DB}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "250020ad-40d0-4d04-a79c-3aac82fe9aeb"
+      Hint: SearchButtonText
+      Value: Search locations
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200514T191510Z
+    - ID: "2d51c8e8-af57-4b64-80fa-c989667e3b67"
+      Hint: MyLocationText
+      Value: My Location
+    - ID: "4f3bb1a9-e899-4933-a06f-b139cf5de927"
+      Hint: Title
+      Value: Locations
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ec4996fa-ec8b-4136-9b00-edd8d7746e42"
+    - ID: "e2a1b879-fc25-4f04-8466-85aa7f235c47"
+      Hint: TextBoxText
+      Value: Search
+  - Version: 2
+    Fields:
+    - ID: "250020ad-40d0-4d04-a79c-3aac82fe9aeb"
+      Hint: SearchButtonText
+      Value: Search locations
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200514T191510Z
+    - ID: "2d51c8e8-af57-4b64-80fa-c989667e3b67"
+      Hint: MyLocationText
+      Value: My Location
+    - ID: "4f3bb1a9-e899-4933-a06f-b139cf5de927"
+      Hint: Title
+      Value: Locations
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c21fe7f0-5687-4ecb-9042-702ca19eb5e0"
+    - ID: "e2a1b879-fc25-4f04-8466-85aa7f235c47"
+      Hint: TextBoxText
+      Value: Search
+  - Version: 3
+    Fields:
+    - ID: "250020ad-40d0-4d04-a79c-3aac82fe9aeb"
+      Hint: SearchButtonText
+      Value: Search locations
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200514T191510Z
+    - ID: "2d51c8e8-af57-4b64-80fa-c989667e3b67"
+      Hint: MyLocationText
+      Value: My Location
+    - ID: "4f3bb1a9-e899-4933-a06f-b139cf5de927"
+      Hint: Title
+      Value: Locations
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "df5400bd-835c-4acf-bfd5-5f7b87d72a04"
+    - ID: "e2a1b879-fc25-4f04-8466-85aa7f235c47"
+      Hint: TextBoxText
+      Value: Search
+  - Version: 4
+    Fields:
+    - ID: "250020ad-40d0-4d04-a79c-3aac82fe9aeb"
+      Hint: SearchButtonText
+      Value: Search locations
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200514T191510Z
+    - ID: "2d51c8e8-af57-4b64-80fa-c989667e3b67"
+      Hint: MyLocationText
+      Value: My Location
+    - ID: "4f3bb1a9-e899-4933-a06f-b139cf5de927"
+      Hint: Title
+      Value: Locations
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f63feac1-53e8-461a-940e-beea92312e43"
+    - ID: "e2a1b879-fc25-4f04-8466-85aa7f235c47"
+      Hint: TextBoxText
+      Value: Search

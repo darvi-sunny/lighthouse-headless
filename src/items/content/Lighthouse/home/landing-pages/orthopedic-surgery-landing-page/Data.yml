@@ -1,0 +1,20 @@
+﻿---
+ID: "1fa268ad-6d68-4012-928f-c50981e34a38"
+Parent: "b898d209-5dbe-4a41-8484-1ee27f2b7825"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: "/sitecore/content/HeadlessTenant/Lighthouse/home/landing-pages/orthopedic-surgery-landing-page/Data"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210621T165429Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\superuser
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "19df7cf7-a174-41d3-824e-d48a79436637"

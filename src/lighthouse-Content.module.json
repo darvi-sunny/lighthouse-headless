@@ -5,11 +5,11 @@
         "includes": [
             {
                 "name": "content",
-                "path": "/sitecore/content/lighthouse"
+                "path": "/sitecore/content/HeadlessTenant/Lighthouse"
             },
             {
                 "name": "media",
-                "path": "/sitecore/media library/lighthouse"
+                "path": "/sitecore/media library/Project/HeadlessTenant"
             }
         ]
     }

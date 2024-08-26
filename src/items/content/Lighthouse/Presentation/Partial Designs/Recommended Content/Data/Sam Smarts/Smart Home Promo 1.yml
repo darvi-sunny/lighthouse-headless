@@ -1,0 +1,108 @@
+﻿---
+ID: "240fa4c3-efb7-4bb6-a8ea-ea3852668d15"
+Parent: "0f8b0a8e-8d63-4e2d-9920-f690378d92b0"
+Template: "324733cf-afec-4281-9a18-03b6cfc4e535"
+Path: /sitecore/content/HeadlessTenant/Lighthouse/Presentation/Partial Designs/Recommended Content/Data/Sam Smarts/Smart Home Promo 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "14023dd5-30e7-4e3c-bf31-d835f3a87410"
+      Hint: PromoText
+      Value: "Take Care of Your Well-being"
+    - ID: "18f9beb8-0116-40fd-b47e-fd0a2327d7e0"
+      Hint: PromoIcon
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180109T164127Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "27bfe6c1-b13a-41fe-a92d-9d33a0c6f4dd"
+    - ID: "b59adc09-32a3-46f2-aede-b0c633979263"
+      Hint: PromoText2
+      Value: "Are you familiar with the concept of mental fitness and do you know how to become more mentally fit? Mental fitness is defined as a state of well-being and having a positive sense of how we feel, think, and act."
+    - ID: "b8c1a9d2-de76-4519-aff4-1442525f32b0"
+      Hint: PromoLink
+      Value: |
+        <link text="Read More" anchor="" linktype="internal" class="" title=""  querystring="" id="{79E4221A-D150-45D4-8DA0-C453C491F1B7}" />
+  - Version: 2
+    Fields:
+    - ID: "14023dd5-30e7-4e3c-bf31-d835f3a87410"
+      Hint: PromoText
+      Value: "Take Care of Your Well-being"
+    - ID: "18f9beb8-0116-40fd-b47e-fd0a2327d7e0"
+      Hint: PromoIcon
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180109T164127Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "06bf5de0-ca6d-4f4b-af5c-308ae564c883"
+    - ID: "b59adc09-32a3-46f2-aede-b0c633979263"
+      Hint: PromoText2
+      Value: "Are you familiar with the concept of mental fitness and do you know how to become more mentally fit? Mental fitness is defined as a state of well-being and having a positive sense of how we feel, think, and act."
+    - ID: "b8c1a9d2-de76-4519-aff4-1442525f32b0"
+      Hint: PromoLink
+      Value: |
+        <link text="Read More" anchor="" linktype="internal" class="" title=""  querystring="" id="{79E4221A-D150-45D4-8DA0-C453C491F1B7}" />
+  - Version: 3
+    Fields:
+    - ID: "14023dd5-30e7-4e3c-bf31-d835f3a87410"
+      Hint: PromoText
+      Value: "Take Care of Your Well-being"
+    - ID: "18f9beb8-0116-40fd-b47e-fd0a2327d7e0"
+      Hint: PromoIcon
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180109T164127Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "86e39665-70af-46d7-8824-bb8a0282c354"
+    - ID: "b59adc09-32a3-46f2-aede-b0c633979263"
+      Hint: PromoText2
+      Value: "Are you familiar with the concept of mental fitness and do you know how to become more mentally fit? Mental fitness is defined as a state of well-being and having a positive sense of how we feel, think, and act."
+    - ID: "b8c1a9d2-de76-4519-aff4-1442525f32b0"
+      Hint: PromoLink
+      Value: |
+        <link text="Read More" anchor="" linktype="internal" class="" title=""  querystring="" id="{79E4221A-D150-45D4-8DA0-C453C491F1B7}" />
+  - Version: 4
+    Fields:
+    - ID: "14023dd5-30e7-4e3c-bf31-d835f3a87410"
+      Hint: PromoText
+      Value: "Take Care of Your Well-being"
+    - ID: "18f9beb8-0116-40fd-b47e-fd0a2327d7e0"
+      Hint: PromoIcon
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180109T164127Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "83742828-289e-443b-8287-297798c3d06f"
+    - ID: "b59adc09-32a3-46f2-aede-b0c633979263"
+      Hint: PromoText2
+      Value: "Are you familiar with the concept of mental fitness and do you know how to become more mentally fit? Mental fitness is defined as a state of well-being and having a positive sense of how we feel, think, and act."
+    - ID: "b8c1a9d2-de76-4519-aff4-1442525f32b0"
+      Hint: PromoLink
+      Value: |
+        <link text="Read More" anchor="" linktype="internal" class="" title=""  querystring="" id="{79E4221A-D150-45D4-8DA0-C453C491F1B7}" />

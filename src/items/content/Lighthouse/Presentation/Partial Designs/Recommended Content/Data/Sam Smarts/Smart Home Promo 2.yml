@@ -1,0 +1,122 @@
+﻿---
+ID: "315fa6e7-fea3-4291-8514-09132cc4dcbd"
+Parent: "0f8b0a8e-8d63-4e2d-9920-f690378d92b0"
+Template: "324733cf-afec-4281-9a18-03b6cfc4e535"
+Path: /sitecore/content/HeadlessTenant/Lighthouse/Presentation/Partial Designs/Recommended Content/Data/Sam Smarts/Smart Home Promo 2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "14023dd5-30e7-4e3c-bf31-d835f3a87410"
+      Hint: PromoText
+      Value: Hardcore fitness On The Go or At Home
+    - ID: "18f9beb8-0116-40fd-b47e-fd0a2327d7e0"
+      Hint: PromoIcon
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180109T164220Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "936282c6-0467-4a17-a05e-f0558eb95507"
+    - ID: "b59adc09-32a3-46f2-aede-b0c633979263"
+      Hint: PromoText2
+      Value: These intense cycling workouts are quick, fun, and 5 times as effective as other forms of exercises.
+    - ID: "b8c1a9d2-de76-4519-aff4-1442525f32b0"
+      Hint: PromoLink
+      Value: |
+        <link id="{87454915-2948-4E83-AC0C-092ED916E34E}" querystring="" text="Read More" anchor="" url="/Demo SXA Sites/LighthouseHealthcare2/home/articles/intense-cycling-workouts" title="" class="" linktype="internal" />
+  - Version: 2
+    Fields:
+    - ID: "14023dd5-30e7-4e3c-bf31-d835f3a87410"
+      Hint: PromoText
+      Value: Hardcore fitness On The Go or At Home
+    - ID: "18f9beb8-0116-40fd-b47e-fd0a2327d7e0"
+      Hint: PromoIcon
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180109T164220Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "189f61e1-b5fe-4234-8695-92f76f8bc784"
+    - ID: "b59adc09-32a3-46f2-aede-b0c633979263"
+      Hint: PromoText2
+      Value: These intense cycling workouts are quick, fun, and 5 times as effective as other forms of exercises.
+    - ID: "b8c1a9d2-de76-4519-aff4-1442525f32b0"
+      Hint: PromoLink
+      Value: |
+        <link id="{87454915-2948-4E83-AC0C-092ED916E34E}" querystring="" text="Read More" anchor="" url="/Demo SXA Sites/LighthouseHealthcare2/home/articles/intense-cycling-workouts" title="" class="" linktype="internal" />
+  - Version: 3
+    Fields:
+    - ID: "14023dd5-30e7-4e3c-bf31-d835f3a87410"
+      Hint: PromoText
+      Value: Hardcore fitness On The Go or At Home
+    - ID: "18f9beb8-0116-40fd-b47e-fd0a2327d7e0"
+      Hint: PromoIcon
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180109T164220Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0ce8e906-721a-411e-b58d-3b3198241395"
+    - ID: "b59adc09-32a3-46f2-aede-b0c633979263"
+      Hint: PromoText2
+      Value: These intense cycling workouts are quick, fun, and 5 times as effective as other forms of exercises.
+    - ID: "b8c1a9d2-de76-4519-aff4-1442525f32b0"
+      Hint: PromoLink
+      Value: |
+        <link class="" querystring="" id="{CEE6768D-88B1-42CA-8AB6-AD0739FC2719}" anchor="" title="" linktype="internal" text="Read More" url="/HeadlessTenant/Lighthouse/home/articles/intense-cycling-workouts" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240820T073839Z
+  - Version: 4
+    Fields:
+    - ID: "14023dd5-30e7-4e3c-bf31-d835f3a87410"
+      Hint: PromoText
+      Value: Hardcore fitness On The Go or At Home
+    - ID: "18f9beb8-0116-40fd-b47e-fd0a2327d7e0"
+      Hint: PromoIcon
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180109T164220Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "46240e87-f5b2-43c2-a555-5e216491630e"
+    - ID: "b59adc09-32a3-46f2-aede-b0c633979263"
+      Hint: PromoText2
+      Value: These intense cycling workouts are quick, fun, and 5 times as effective as other forms of exercises.
+    - ID: "b8c1a9d2-de76-4519-aff4-1442525f32b0"
+      Hint: PromoLink
+      Value: |
+        <link class="" querystring="" id="{CEE6768D-88B1-42CA-8AB6-AD0739FC2719}" anchor="" title="" linktype="internal" text="Read More" url="/HeadlessTenant/Lighthouse/home/articles/intense-cycling-workouts" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240820T073839Z

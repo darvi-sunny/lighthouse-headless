@@ -1,0 +1,52 @@
+﻿---
+ID: "84e6e26b-805a-4e7c-af63-85029159b777"
+Parent: "49ad8d03-e1d4-4c31-8271-2b6030208c77"
+Template: "a45cd1ca-fec0-4c43-af32-9101d1f8c133"
+Path: /sitecore/content/HeadlessTenant/Lighthouse/Data/Events/Google Calendar
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: "{62C2B7D0-1C34-4AA6-B3D3-5D612C0891BD}"
+- ID: "1d4d8fee-f831-45fe-85bf-3bd51a99657d"
+  Hint: GoogleCalendarAPIKey
+  Value: AIzaSyAk5ZrAFKBwfdQJ88GP6FWFuGSpn2KjhO8
+- ID: "70d76624-6d1d-4b0c-8059-ae89ecf9d0df"
+  Hint: GoogleCalendarID
+  Value: o880fvva3rj13n8d660i9ro9uk@group.calendar.google.com
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{C6EBE5E6-BCE3-4BAB-A5F9-16382F8369FE}"
+- ID: "b0af30ce-8648-468d-a4e3-9afff7e003da"
+  Hint: EventTypes
+  Value: "{07FC9704-7DDD-4E47-A524-943401246C4D}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210601T164511Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{E93E190F-3398-489D-B3A3-A3B0D9BB33C5}"
+    - ID: "4ecfb5f0-7af8-4591-8f5d-4e49fb35b902"
+      Hint: Title
+      Value: Google Calendar of Events
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Wendy
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8e90ce71-e04c-444a-938b-53d866de3912"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240820T080456Z

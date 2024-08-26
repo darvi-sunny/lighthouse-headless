@@ -1,0 +1,20 @@
+﻿---
+ID: "d1289269-9c48-42ea-9a1d-dc9dee440dd0"
+Parent: "365c7c85-43ab-4786-b665-5bc1a6b97f1e"
+Template: "29252703-d448-451c-bf1e-65b16174f4b0"
+Path: /sitecore/content/HeadlessTenant/Lighthouse/Data/Forms/Form Content Tokens
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171027T191050Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5f8595d0-bc69-4126-ac6d-11329148adbf"

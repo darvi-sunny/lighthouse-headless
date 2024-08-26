@@ -1,0 +1,72 @@
+﻿---
+ID: "a9f6272a-94cc-42c3-a951-877de7fd850e"
+Parent: "a4d193b4-a644-49b7-9ae7-7f7d0fb3fa84"
+Template: "41cbdc01-c2df-4768-8add-87fb6b5a434b"
+Path: /sitecore/content/HeadlessTenant/Lighthouse/Data/Search/Page Size/Default
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{96B5B464-46C5-4C9C-9C52-B7FFCD18880E}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171027T191902Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "6d6e0783-1423-4834-ab27-74312e8b6754"
+      Hint: Title
+      Value: Results per page
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ace4808b-f5e3-4211-acdf-440a65d59aec"
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171027T191902Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "6d6e0783-1423-4834-ab27-74312e8b6754"
+      Hint: Title
+      Value: Results per page
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2f78f9d3-c6bc-4756-ad07-b23fa1eee99e"
+  - Version: 3
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171027T191902Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "6d6e0783-1423-4834-ab27-74312e8b6754"
+      Hint: Title
+      Value: Results per page
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "dd75209d-befa-4e78-bf59-0546c0f5820f"
+  - Version: 4
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171027T191902Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\virtualssuser
+    - ID: "6d6e0783-1423-4834-ab27-74312e8b6754"
+      Hint: Title
+      Value: Results per page
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "928dffc6-92a2-4bf6-9244-100a50307836"

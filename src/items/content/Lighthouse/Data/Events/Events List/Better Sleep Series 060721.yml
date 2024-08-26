@@ -1,0 +1,46 @@
+﻿---
+ID: "a4fdc161-87a6-4006-826f-8153b718dd8d"
+Parent: "d649eef6-e348-49c4-8a4c-bdb91541c9bb"
+Template: "b67cf636-5242-46d3-a9a2-1748f2ed8f26"
+Path: /sitecore/content/HeadlessTenant/Lighthouse/Data/Events/Events List/Better Sleep Series 060721
+SharedFields:
+- ID: "456c0872-328e-49a8-a7f5-f2d48f776cf1"
+  Hint: EventEnd
+  Value: 20210607T000000Z
+- ID: "8d888f0b-9d94-4bc9-8bb5-c37e744378a8"
+  Hint: EventStart
+  Value: 20210607T000000Z
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210601T165232Z
+    - ID: "3f0873d7-4f34-4434-bd48-129bc8d68748"
+      Hint: EndLabel
+      Value: to
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Wendy
+    - ID: "8cc00462-a6e7-4ae6-ad51-90f3a3d1a51f"
+      Hint: EventName
+      Value: Better Sleep Series 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "67fec6ac-00f6-4526-8519-17751a0adb89"
+    - ID: "9b0a9fd4-d01e-4764-867d-ac9c0ec9c680"
+      Hint: EventDescription
+      Value: Learn how to get your best night's sleep.&nbsp;
+    - ID: "bab74f14-887f-43e2-93a9-dab0d0bb4079"
+      Hint: StartLabel
+      Value: from
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240820T080455Z

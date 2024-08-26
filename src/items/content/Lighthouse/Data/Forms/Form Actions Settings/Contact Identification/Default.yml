@@ -1,0 +1,16 @@
+﻿---
+ID: "a5cfde9b-1699-4ae7-8165-182752ed81fb"
+Parent: "151d190e-9fe8-4d12-b928-cd5e69af10d4"
+Template: "7e33cfbd-1060-4a7c-97b5-fd3785bd5085"
+Path: /sitecore/content/HeadlessTenant/Lighthouse/Data/Forms/Form Actions Settings/Contact Identification/Default
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180201T053213Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9292fe01-be6c-4c0b-855a-4600cdc4840f"

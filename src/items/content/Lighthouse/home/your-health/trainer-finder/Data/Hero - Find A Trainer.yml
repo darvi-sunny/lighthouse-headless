@@ -1,0 +1,82 @@
+﻿---
+ID: "8a6bf518-10aa-4da2-bb36-195d2014b165"
+Parent: "2032492c-d28c-4a6a-8900-02caf26fa03f"
+Template: "643a85f5-c9f1-4836-b17b-35ade22d03d3"
+Path: "/sitecore/content/HeadlessTenant/Lighthouse/home/your-health/trainer-finder/Data/Hero - Find A Trainer"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180320T174722Z
+    - ID: "440b5413-5322-4166-9fbe-580f70973751"
+      Hint: HeroTitle
+      Value: Find A Virtual Trainer
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7cb74504-9cc3-48b3-a196-6c2d8ac6ec3b"
+    - ID: "9c385368-a554-4a92-9a8d-37f3ef3a09f4"
+      Hint: HeroImage
+      Value: 
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180320T174722Z
+    - ID: "440b5413-5322-4166-9fbe-580f70973751"
+      Hint: HeroTitle
+      Value: Find A Virtual Trainer
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "66044fd6-68ec-4b94-908c-f2b5b07efab8"
+    - ID: "9c385368-a554-4a92-9a8d-37f3ef3a09f4"
+      Hint: HeroImage
+      Value: 
+  - Version: 3
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180320T174722Z
+    - ID: "440b5413-5322-4166-9fbe-580f70973751"
+      Hint: HeroTitle
+      Value: Find A Virtual Trainer
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "43b34bed-1dc8-4605-a076-0ceb17d85494"
+    - ID: "9c385368-a554-4a92-9a8d-37f3ef3a09f4"
+      Hint: HeroImage
+      Value: |
+        <image mediaid="{26BD14CC-E298-459F-B7FC-BD98C7AE9F82}" />
+  - Version: 4
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180320T174722Z
+    - ID: "440b5413-5322-4166-9fbe-580f70973751"
+      Hint: HeroTitle
+      Value: Find A Virtual Trainer
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d6d7a03e-6a3b-446d-8356-95288b9e6dac"
+    - ID: "9c385368-a554-4a92-9a8d-37f3ef3a09f4"
+      Hint: HeroImage
+      Value: |
+        <image mediaid="{26BD14CC-E298-459F-B7FC-BD98C7AE9F82}" />

@@ -1,0 +1,62 @@
+﻿---
+ID: "eae35eed-0ac5-436c-b2d9-c951ad022419"
+Parent: "060c6cde-1af9-48e4-a2e7-1af1be618ef1"
+Template: "dfed4457-d760-457a-bec1-c0dccdc44381"
+Path: "/sitecore/content/HeadlessTenant/Lighthouse/home/your-health/Data/Promo - Healthy Brain Function"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180316T183953Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b7445dc3-8eb7-44a5-9588-680b8df74cc3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240820T073839Z
+  - Version: 2
+    Fields:
+    - ID: "1f66862d-a5e3-405f-8e3e-b787b4c39b12"
+      Hint: PromoText2
+      Value: A recent survey found that about 25% of adults over age 50 take a supplement to improve their brain health with the promise of enhanced memory and sharper attention and focus
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180316T183953Z
+    - ID: "28079f3a-896b-4273-be5f-59d0ebb7cd7d"
+      Hint: PromoText
+      Value: |
+        <h3 class="p-name entry-title" style="color: #222222; background-color: #ffffff; margin: 0px 0px 0.52em;">Don’t buy into brain health supplements</h3>
+        <div id="fpCE_version" style="display:none;">8.5.5</div>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "eb61ea26-8078-47b1-ae85-7471aa035469"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240820T080424Z
+    - ID: "ef24bed2-46ab-4d53-ad1a-1019935a4e89"
+      Hint: PromoLink
+      Value: |
+        <link id="{EB7EFE34-CE1A-4BF2-9FAD-DEF63F152089}" querystring="" target="" linktype="internal" text="Read more" url="/HeadlessTenant/Lighthouse/home/articles/Healthy Brain Function" />
+    - ID: "f94b9858-c439-4291-863b-757b536c8b65"
+      Hint: PromoIcon
+      Value: |
+        <image mediaid="{9CDCD4D4-C4A6-40EC-A990-1ABFED6C7355}" />

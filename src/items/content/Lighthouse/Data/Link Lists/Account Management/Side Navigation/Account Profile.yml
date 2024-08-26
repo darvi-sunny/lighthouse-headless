@@ -1,0 +1,90 @@
+﻿---
+ID: "e4772623-c9af-4072-b254-6d4441144391"
+Parent: "4f2e4770-3dcc-45e9-9f2f-4270c72d919f"
+Template: "e24e0789-a058-48bf-abb6-c69c0e60b6b7"
+Path: /sitecore/content/HeadlessTenant/Lighthouse/Data/Link Lists/Account Management/Side Navigation/Account Profile
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180326T012408Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f9d36837-37d0-4d3d-acab-623ec6501ef0"
+    - ID: "dd05144a-bd66-4ea3-956a-4b7104daaba3"
+      Hint: Link
+      Value: |
+        <link id="{3B671C72-628D-4D25-9965-A2580317E4A8}" querystring="" target="" text="Account Profile" anchor="" url="/Demo SXA Sites/LighthouseHealthcare2/home/account/portal/editprofile" title="" class="" linktype="internal" />
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180326T012408Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "629fd71d-6d3a-4ba6-9fdf-faa6392110ed"
+    - ID: "dd05144a-bd66-4ea3-956a-4b7104daaba3"
+      Hint: Link
+      Value: |
+        <link id="{3B671C72-628D-4D25-9965-A2580317E4A8}" querystring="" target="" text="Account Profile" anchor="" url="/Demo SXA Sites/LighthouseHealthcare2/home/account/portal/editprofile" title="" class="" linktype="internal" />
+  - Version: 3
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180326T012408Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ed9d1c1a-9621-4688-ba8f-8e95fc6f14bb"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240820T073842Z
+    - ID: "dd05144a-bd66-4ea3-956a-4b7104daaba3"
+      Hint: Link
+      Value: |
+        <link class="" querystring="" id="{7F66776E-282D-486E-9FA8-D203DAC4F834}" anchor="" target="" title="" linktype="internal" text="Account Profile" url="/HeadlessTenant/Lighthouse/home/account/portal/editprofile" />
+  - Version: 4
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180326T012408Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3800726c-78ea-4a31-a6d2-f25cef33f2ed"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240820T073841Z
+    - ID: "dd05144a-bd66-4ea3-956a-4b7104daaba3"
+      Hint: Link
+      Value: |
+        <link class="" id="{7F66776E-282D-486E-9FA8-D203DAC4F834}" querystring="" anchor="" title="Account Profile" linktype="internal" text="Account Profile" url="/HeadlessTenant/Lighthouse/home/account/portal/editprofile" />

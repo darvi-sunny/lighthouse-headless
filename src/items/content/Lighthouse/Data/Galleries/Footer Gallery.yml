@@ -1,0 +1,67 @@
+﻿---
+ID: "c0ea8462-01d2-4328-a9fb-c07c69e27c37"
+Parent: "f8cb6634-ed59-4f1d-97c2-0db245494b4d"
+Template: "569f213f-c7a1-4985-95b2-5456441d7a9a"
+Path: /sitecore/content/HeadlessTenant/Lighthouse/Data/Galleries/Footer Gallery
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {9D77C212-A828-4792-8E72-749F19C0154D}
+    {4AF51F4D-8AC4-4394-B6A5-11B52CFAF613}
+- ID: "35675e87-f685-4dbe-9781-c3e6fc86dc21"
+  Hint: GalleriaTheme
+  Value: |
+    <link linktype="media" target="" id="{75F6C76B-ACE8-47F6-9805-EB75ED94402D}" />
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200519T155349Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6a666663-0580-41b2-8735-f9de76d646f4"
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200519T155349Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "38895676-d174-4b84-bd1e-871364f4dae1"
+  - Version: 3
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200519T155349Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6283c838-c931-421e-a95f-a9755ea34df1"
+  - Version: 4
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200519T155349Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bc9d8fb9-dca0-4739-973b-2fd7c6666a2a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240820T080457Z

@@ -1,0 +1,84 @@
+﻿---
+ID: "f1e5e5cb-4ca6-4391-a118-0d3af7db45b9"
+Parent: "ae8c9c89-2f62-4b6f-942d-6979630fdac5"
+Template: "dfed4457-d760-457a-bec1-c0dccdc44381"
+Path: "/sitecore/content/HeadlessTenant/Lighthouse/Data/Promos/Register Promo - Content in Test/Register Promo - Benefits"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171130T142522Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0716d736-34c7-42ae-abd5-516e99a2408e"
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171130T142522Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "114a17fb-f4c2-465f-93ad-5da32c454b3a"
+  - Version: 3
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171130T142522Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "22ae1a8b-1429-4620-adca-c3a8343a6ba5"
+  - Version: 4
+    Fields:
+    - ID: "1f66862d-a5e3-405f-8e3e-b787b4c39b12"
+      Hint: PromoText2
+      Value: |
+        <div style="font-weight: 400; color: #b1b3ac; margin: 5px 0;">
+        <p>Now that you have registered to be a part of&nbsp; Lighthouse Healthcare, you can find a doctor at one of our many locations.</p>
+        <p>
+        </p>
+        <p>Choosing a doctor isn’t the same as finding a restaurant for dinner or looking up the nearest dry cleaners. That’s why Healthgrades gives you the full picture of a doctor’s qualifications, including clinical experience, hospital quality measures, and patient feedback.</p>
+        </div>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171130T142522Z
+    - ID: "28079f3a-896b-4273-be5f-59d0ebb7cd7d"
+      Hint: PromoText
+      Value: |
+        <h3 class="field-promotext">Find a Doctor</h3>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4e45ba9d-5522-430d-bbf3-a0f11ce2509f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240820T080501Z
+    - ID: "ef24bed2-46ab-4d53-ad1a-1019935a4e89"
+      Hint: PromoLink
+      Value: |
+        <link id="{E96A4292-D601-42EB-BBCC-4E622EF054D1}" querystring="" target="" title="Create Account" linktype="internal" text="Find out more" url="/HeadlessTenant/Lighthouse/home/Patient Care" />
+    - ID: "f94b9858-c439-4291-863b-757b536c8b65"
+      Hint: PromoIcon
+      Value: |
+        <image mediaid="{E48CFD79-FF53-4B7E-BC38-9A3F851FF54A}" />

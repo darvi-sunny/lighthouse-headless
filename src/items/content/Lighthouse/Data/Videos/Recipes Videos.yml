@@ -1,0 +1,53 @@
+﻿---
+ID: "1cb9cd3f-3c8a-4a57-b8a8-dbbc9fe57a71"
+Parent: "cdc0b493-3276-438d-8795-415651b558a4"
+Template: "6e2476f1-5acc-4677-87ed-7fec8f7346f8"
+Path: /sitecore/content/HeadlessTenant/Lighthouse/Data/Videos/Recipes Videos
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {ADE9EFF4-DA78-4E26-9248-B01BD93EAE95}
+    {4C650AB1-7DAB-447C-9836-BB984DF71842}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171122T143526Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ada28623-11ec-4c77-b9bd-3b3699947381"
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171122T143526Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6a697f0b-82dd-403a-bf6a-3ea8ed61f344"
+  - Version: 3
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171122T143526Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4d429d29-70ca-40b7-bc19-91cdacedff72"
+  - Version: 4
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171122T143526Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c84b3378-30da-46de-a493-34f276ca0d96"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240820T080505Z

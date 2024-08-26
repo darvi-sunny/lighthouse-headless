@@ -1,0 +1,98 @@
+﻿---
+ID: "b898d209-5dbe-4a41-8484-1ee27f2b7825"
+Parent: "ff2cf6d6-dacd-4278-add4-abaea9e1fb4a"
+Template: "bd74a392-dacd-4c23-853a-d520762b33a1"
+Path: "/sitecore/content/HeadlessTenant/Lighthouse/home/landing-pages/orthopedic-surgery-landing-page"
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{C6EBE5E6-BCE3-4BAB-A5F9-16382F8369FE}"
+- ID: "db51d4e9-c24d-4670-af0e-62c8aa08e2b6"
+  Hint: LocalData
+  Value: "{1FA268AD-6D68-4012-928F-C50981E34A38}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        s:l="{96E5F4BA-A2CF-4A4C-A4E7-64DA88226362}" />
+    </r>
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Orthopedic Surgery landing Page
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{7812A81F-0F02-4264-BC40-FA6310A808CE}"
+              p:before="*"
+              s:ds="{90D2E9D9-BFFF-4236-B75D-8AC89029D09F}"
+              s:id="{6BCF8D8E-0A28-4844-BFB4-96C852BAD2DC}"
+              s:par="Reset Caching Options&amp;GridParameters=%7B113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2%7D&amp;FieldNames=%7BC7A7E725-BC84-45AE-AD50-0659F9AB7F98%7D&amp;Styles&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+              s:ph="/main/sxa-content-container/container-1" />
+            <r
+              uid="{A7F95C88-F8A7-42D8-B3B4-DF0EAFC65A08}"
+              p:after="r[@uid='{7812A81F-0F02-4264-BC40-FA6310A808CE}']"
+              s:ds="{25769385-7E00-4EA1-B6B8-A06C738F9733}"
+              s:id="{2492BAC4-DA07-4C86-87F0-9873D40E2276}"
+              s:par="?CacheClearingBehavior=Clear+on+publish&amp;GridParameters=%7b113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2%7d&amp;RenderingIdentifier&amp;DynamicPlaceholderId=5&amp;Reset Caching Options&amp;Styles&amp;FieldNames=%7b184DC7A4-FDBB-446F-94BE-30B44B12C2AD%7d"
+              s:ph="/headless-main/row-2-4" />
+            <r
+              uid="{D80FADF4-FA48-4DF0-A832-A84513B9C701}"
+              p:after="r[@uid='{A7F95C88-F8A7-42D8-B3B4-DF0EAFC65A08}']"
+              s:id="{3836D951-BB14-43AC-9231-649B7F245DC5}"
+              s:par="?CacheClearingBehavior=Clear+on+publish&amp;GridParameters=%7b113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2%7d&amp;RenderingIdentifier&amp;DynamicPlaceholderId=2&amp;Reset Caching Options&amp;Styles&amp;FieldNames=%7bF40C5936-DD7A-4C36-B456-20CFFAAA0F4C%7d"
+              s:ph="headless-main" />
+            <r
+              uid="{24973201-376B-4CCB-AB77-91CBF431A3F0}"
+              p:after="r[@uid='{D80FADF4-FA48-4DF0-A832-A84513B9C701}']"
+              s:ds="local:/Data/Landing Text"
+              s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+              s:par="?CacheClearingBehavior=Clear+on+publish&amp;GridParameters=%7b113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2%7d&amp;RenderingIdentifier&amp;DynamicPlaceholderId=3&amp;Reset Caching Options&amp;Styles&amp;FieldNames=%7bF3541131-302B-49FF-B9E4-9153324657B7%7d"
+              s:ph="headless-main" />
+            <r
+              uid="{34F26DC4-5B2D-4ACD-9F1C-2A800CE1B957}"
+              p:after="*[1=2]"
+              s:id="{5F6BF7C9-C80C-4BBD-AD78-8DA749B35206}"
+              s:par="?ColumnWidth1&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth4&amp;ColumnWidth2&amp;ColumnWidth5&amp;ColumnWidth8&amp;ColumnWidth3&amp;Styles4&amp;Styles7&amp;Styles6&amp;Styles1&amp;Styles3&amp;Styles2&amp;SplitterSize=2&amp;CacheClearingBehavior=Clear+on+publish&amp;Styles8&amp;DynamicPlaceholderId=4&amp;Reset Caching Options&amp;EnabledPlaceholders=1%2c2&amp;Styles5"
+              s:ph="headless-main" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210621T164824Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{E93E190F-3398-489D-B3A3-A3B0D9BB33C5}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Orthopedic Surgery landing Page
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\superuser
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b21e9090-4dcd-4bff-84a9-3ce0bafab7d6"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240820T075510Z
+    - ID: "e2a634fd-5177-46de-b629-5393caed77d7"
+      Hint: Title
+      Value: Orthopedic Surgery

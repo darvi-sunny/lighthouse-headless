@@ -1,0 +1,83 @@
+﻿---
+ID: "b486b2aa-c3b3-4415-9c5c-783dfe45e5fb"
+Parent: "609da7b4-1ddd-413c-aa06-2d418fb84f35"
+Template: "e24e0789-a058-48bf-abb6-c69c0e60b6b7"
+Path: /sitecore/content/HeadlessTenant/Lighthouse/Data/Link Lists/Footer/Other Column/Events
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 88
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171031T193845Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5ab2a554-313d-486b-938f-bf02be0c6662"
+    - ID: "dd05144a-bd66-4ea3-956a-4b7104daaba3"
+      Hint: Link
+      Value: |
+        <link id="{ED44D30F-AACD-4034-94F7-AFF86A29055B}" querystring="" target="" text="Locations" anchor="" title="" class="" url="/Demo SXA Sites/LighthouseHealthcare2/home/company/locations" linktype="internal" />
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171031T193845Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c571bb6f-9cf3-4a18-a042-56c5a74ec949"
+    - ID: "dd05144a-bd66-4ea3-956a-4b7104daaba3"
+      Hint: Link
+      Value: |
+        <link id="{ED44D30F-AACD-4034-94F7-AFF86A29055B}" querystring="" target="" text="Locations" anchor="" title="" class="" url="/Demo SXA Sites/LighthouseHealthcare2/home/company/locations" linktype="internal" />
+  - Version: 3
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171031T193845Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e9aa8d82-f64f-49cf-9c9b-319cadbc01a3"
+    - ID: "dd05144a-bd66-4ea3-956a-4b7104daaba3"
+      Hint: Link
+      Value: |
+        <link id="{8645CE38-2AD4-4518-BABF-A8E34EF8FC03}" querystring="" target="" text="Locations" anchor="" title="" class="" url="/Demo SXA Sites/LighthouseHealthcare/home/company/locations" linktype="internal" />
+  - Version: 4
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171031T193845Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cdf6641d-23be-432c-83f9-5342917106dc"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240820T073825Z
+    - ID: "dd05144a-bd66-4ea3-956a-4b7104daaba3"
+      Hint: Link
+      Value: |
+        <link class="" id="{3DDC60C1-7BB2-4E70-8B76-B978B862141E}" querystring="" anchor="" title="" linktype="internal" text="Events" url="/HeadlessTenant/Lighthouse/home/Events" />

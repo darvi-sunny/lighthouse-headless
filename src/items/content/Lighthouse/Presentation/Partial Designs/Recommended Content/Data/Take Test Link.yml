@@ -1,0 +1,72 @@
+﻿---
+ID: "3090a6f0-d0d3-4a28-9622-1d84e1047f01"
+Parent: "d9a33d86-14ee-404c-a3b7-4fde30490ce3"
+Template: "e24e0789-a058-48bf-abb6-c69c0e60b6b7"
+Path: /sitecore/content/HeadlessTenant/Lighthouse/Presentation/Partial Designs/Recommended Content/Data/Take Test Link
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190318T213717Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "97478c4b-aa23-42ca-8232-245cca504e92"
+    - ID: "dd05144a-bd66-4ea3-956a-4b7104daaba3"
+      Hint: Link
+      Value: |
+        <link text="Find Your Personalized Content" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{4FE83372-F5BF-417E-A969-5B35D50DC993}" />
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190318T213717Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a82ad3d6-cf27-4899-9149-455d7d7e9a1f"
+    - ID: "dd05144a-bd66-4ea3-956a-4b7104daaba3"
+      Hint: Link
+      Value: |
+        <link text="Find Your Personalized Content" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{4FE83372-F5BF-417E-A969-5B35D50DC993}" />
+  - Version: 3
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190318T213717Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "593edd98-d5be-4fca-a03a-a1cbe6b1f648"
+    - ID: "dd05144a-bd66-4ea3-956a-4b7104daaba3"
+      Hint: Link
+      Value: |
+        <link text="Find Your Personalized Content" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{4FE83372-F5BF-417E-A969-5B35D50DC993}" />
+  - Version: 4
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190318T213717Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "78b163b1-1a20-46e1-9e7d-85549b807253"
+    - ID: "dd05144a-bd66-4ea3-956a-4b7104daaba3"
+      Hint: Link
+      Value: |
+        <link text="Find Your Personalized Content" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{4FE83372-F5BF-417E-A969-5B35D50DC993}" />

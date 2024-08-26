@@ -1,0 +1,69 @@
+﻿---
+ID: "9422ef29-e035-4fe3-a616-c9f44946abd8"
+Parent: "c0ea8462-01d2-4328-a9fb-c07c69e27c37"
+Template: "621f27b7-c077-48c3-bb62-fdeea90c4e37"
+Path: /sitecore/content/HeadlessTenant/Lighthouse/Data/Galleries/Footer Gallery/Gallery Image 2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200519T155407Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "76baa6ed-d3a2-4bfa-8dcd-f3f087334696"
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200519T155407Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "74621362-7516-4a09-902c-02f2890fa2c8"
+  - Version: 3
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200519T155407Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cab72f43-b4e3-453e-aad0-b617dc22ba15"
+  - Version: 4
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200519T155407Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f4513021-238f-4f23-a255-866a5172c916"
+    - ID: "a4d0441d-1ebb-4674-b86f-318770a92ad5"
+      Hint: ImageTitle
+      Value: Lighthouse Lifestyle
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d7700700-a4f4-4eac-a010-e022931868f0"
+      Hint: ImageDescription
+      Value: Lorem ipsum dolor sit amet
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240820T080457Z

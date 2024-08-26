@@ -35,11 +35,6 @@
                 "allowedPushOperations": "createAndUpdate"
             },
             {
-                "name": "CL-templates-branches",
-                "path": "/sitecore/templates/Branches/Feature/Components Library",
-                "allowedPushOperations": "createAndUpdate"
-            },
-            {
                 "name": "CL-templates-feature",
                 "path": "/sitecore/templates/Feature/Components Library",
                 "allowedPushOperations": "createAndUpdate"

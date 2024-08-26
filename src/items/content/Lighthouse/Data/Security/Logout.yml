@@ -1,0 +1,101 @@
+﻿---
+ID: "08f2530c-6d0a-4f44-afa1-03725d10e0c0"
+Parent: "51e3106e-c20d-45d7-a51f-8f7e94391369"
+Template: "c2294d82-35a6-452a-94b1-5eb5e543b602"
+Path: /sitecore/content/HeadlessTenant/Lighthouse/Data/Security/Logout
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{C6EBE5E6-BCE3-4BAB-A5F9-16382F8369FE}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "13b96afd-2685-4c98-b2ac-d44d49893807"
+      Hint: DestinationUrl
+      Value: |
+        <link id="{D7E1BB11-04EF-462F-AA9C-261844DFF676}" querystring="" target="" text="" anchor="" title="" class="" url="/Demo SXA Sites/LighthouseHealthcare2/home" linktype="internal" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171129T135804Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{E93E190F-3398-489D-B3A3-A3B0D9BB33C5}"
+    - ID: "8a83d191-8f06-4ab2-9600-1968bebf0805"
+      Hint: LogoutLinkCaption
+      Value: Logout
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d7b5192d-a751-49d1-8b37-758df8f8211b"
+  - Version: 2
+    Fields:
+    - ID: "13b96afd-2685-4c98-b2ac-d44d49893807"
+      Hint: DestinationUrl
+      Value: |
+        <link id="{D7E1BB11-04EF-462F-AA9C-261844DFF676}" querystring="" target="" text="" anchor="" title="" class="" url="/Demo SXA Sites/LighthouseHealthcare2/home" linktype="internal" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171129T135804Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{E93E190F-3398-489D-B3A3-A3B0D9BB33C5}"
+    - ID: "8a83d191-8f06-4ab2-9600-1968bebf0805"
+      Hint: LogoutLinkCaption
+      Value: Logout
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f9e3c08b-fb4a-47ac-9303-1b5cf7819e42"
+  - Version: 3
+    Fields:
+    - ID: "13b96afd-2685-4c98-b2ac-d44d49893807"
+      Hint: DestinationUrl
+      Value: |
+        <link class="" querystring="" id="{174CDF1F-414F-4E60-841B-301BB2C5DE40}" anchor="" target="" title="" linktype="internal" text="" url="/HeadlessTenant/Lighthouse/home" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171129T135804Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{E93E190F-3398-489D-B3A3-A3B0D9BB33C5}"
+    - ID: "8a83d191-8f06-4ab2-9600-1968bebf0805"
+      Hint: LogoutLinkCaption
+      Value: Logout
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d86738fe-a1be-485c-b611-966d92bc7e90"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240820T073817Z
+  - Version: 4
+    Fields:
+    - ID: "13b96afd-2685-4c98-b2ac-d44d49893807"
+      Hint: DestinationUrl
+      Value: |
+        <link class="" querystring="" id="{174CDF1F-414F-4E60-841B-301BB2C5DE40}" anchor="" target="" title="" linktype="internal" text="" url="/HeadlessTenant/Lighthouse/home" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171129T135804Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{E93E190F-3398-489D-B3A3-A3B0D9BB33C5}"
+    - ID: "8a12efae-3cb2-49da-817f-9c8b159ba45a"
+      Hint: DisplayUsername
+      Value: 
+    - ID: "8a83d191-8f06-4ab2-9600-1968bebf0805"
+      Hint: LogoutLinkCaption
+      Value: Logout
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "17c126ad-34d8-4a8d-8154-9cb9a26861bb"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240820T073817Z

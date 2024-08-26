@@ -1,0 +1,76 @@
+﻿---
+ID: "a1e4936f-fa74-4c83-a19c-2332f70d7e00"
+Parent: "6c2b43c8-c176-4ec3-90d2-69fe8a4fc522"
+Template: "65c40b53-6ce8-446a-ba5f-2e0bbaba338a"
+Path: /sitecore/content/HeadlessTenant/Lighthouse/Data/Maps/Store Locator
+SharedFields:
+- ID: "21deba67-24cb-400d-a31a-767eaf29e26a"
+  Hint: CentralPointMode
+  Value: "{B031BAEB-CB06-4F99-9993-D3106AF251C7}"
+- ID: "6cd26d85-a85a-4171-bc5a-0b458f7af981"
+  Hint: Mode
+  Value: "{CC4C3061-B6AB-4C6D-B185-BB8B6E38D3E8}"
+- ID: "83f4ac35-cff5-4e6b-a675-9e59dbbd7f64"
+  Hint: Height
+  Value: 550
+- ID: "9dd888ec-2afd-454a-9d4e-9d6709e86e40"
+  Hint: Zoom
+  Value: "{6A8BFC16-478D-4473-94CD-92E98A1F37C3}"
+- ID: "a42ba2ae-9dbd-4c3b-a684-5b6dbf397cc8"
+  Hint: POI
+  Value: "{F8C8E461-7D21-4710-B244-FC477D12BEA8}"
+- ID: "da7edba8-5b3c-4489-b725-bd597e61b7b9"
+  Hint: CentralPointLatidiute
+  Value: 41.404637
+- ID: "e2fce0c7-c2e0-4168-a0ae-5977d980129e"
+  Hint: CentralPointLongitude
+  Value: "-75.7319728"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200514T183131Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a512daae-2854-412d-80de-3f9655364d51"
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200514T183131Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c7b05692-e6cf-4f89-9209-2149220700b7"
+  - Version: 3
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200514T183131Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b24782f0-f7f0-4570-ac71-18fab7166144"
+  - Version: 4
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200514T183131Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3e528441-9878-4c1a-8a7a-543d72405b39"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240820T080458Z

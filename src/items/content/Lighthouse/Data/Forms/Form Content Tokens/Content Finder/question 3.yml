@@ -1,0 +1,16 @@
+﻿---
+ID: "21cb1b7c-92bd-4906-8cfa-5b34f61d838f"
+Parent: "57442ffc-8978-4be3-9d8b-67bdca58ff18"
+Template: "29252703-d448-451c-bf1e-65b16174f4b0"
+Path: /sitecore/content/HeadlessTenant/Lighthouse/Data/Forms/Form Content Tokens/Content Finder/question 3
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171121T214458Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e891b3dd-053f-48cc-9dc6-176f35841557"

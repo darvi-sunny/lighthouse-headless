@@ -1,0 +1,31 @@
+﻿---
+ID: "6332d2d9-fe9d-446f-aa68-c71014787e8f"
+Parent: "e560e3ac-c578-4442-9da7-2bb4d39b2d29"
+Template: "e560e3ac-c578-4442-9da7-2bb4d39b2d29"
+Path: /sitecore/templates/Project/HeadlessTenant/Headless Site/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240725T135531Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ff6c2049-0e3a-4ba3-a157-80c3c51f7931"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240725T135531Z

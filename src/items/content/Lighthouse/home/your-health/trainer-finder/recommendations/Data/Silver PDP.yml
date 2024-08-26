@@ -1,0 +1,72 @@
+﻿---
+ID: "3604cede-09b3-48e2-8b0b-51cf609c1c16"
+Parent: "5b020eba-8cfc-432e-8a8f-31589af4e67e"
+Template: "e24e0789-a058-48bf-abb6-c69c0e60b6b7"
+Path: "/sitecore/content/HeadlessTenant/Lighthouse/home/your-health/trainer-finder/recommendations/Data/Silver PDP"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180403T204823Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1afadb13-2294-480a-87ce-a33500df2e03"
+    - ID: "dd05144a-bd66-4ea3-956a-4b7104daaba3"
+      Hint: Link
+      Value: |
+        <link text="Details" linktype="rel" url="/shop/Health%2CBeautyandFitness%3dLighthouse_master-health%20%20beauty%20and%20fitness/SydneyCummings-SilverPackage%3d8042101" anchor="" />
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180403T204823Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a4a679e3-5858-4f7a-8514-c376dac1138f"
+    - ID: "dd05144a-bd66-4ea3-956a-4b7104daaba3"
+      Hint: Link
+      Value: |
+        <link text="Details" linktype="rel" url="/shop/Health%2CBeautyandFitness%3dLighthouse_master-health%20%20beauty%20and%20fitness/SydneyCummings-SilverPackage%3d8042101" anchor="" />
+  - Version: 3
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180403T204823Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "86dd206a-1e83-4947-8485-e3877ca53bf0"
+    - ID: "dd05144a-bd66-4ea3-956a-4b7104daaba3"
+      Hint: Link
+      Value: |
+        <link text="Details" linktype="rel" url="/shop/Health%2CBeautyandFitness%3dLighthouse_master-health%20%20beauty%20and%20fitness/SydneyCummings-SilverPackage%3d8042101" anchor="" />
+  - Version: 4
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180403T204823Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "db0c689c-4420-4861-a8aa-ca86f611f879"
+    - ID: "dd05144a-bd66-4ea3-956a-4b7104daaba3"
+      Hint: Link
+      Value: |
+        <link text="Details" linktype="rel" url="/shop/Health%2CBeautyandFitness%3dLighthouse_master-health%20%20beauty%20and%20fitness/SydneyCummings-SilverPackage%3d8042101" anchor="" />

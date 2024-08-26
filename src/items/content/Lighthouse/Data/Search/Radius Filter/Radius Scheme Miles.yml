@@ -1,0 +1,40 @@
+﻿---
+ID: "4ad65408-fdbc-4602-892e-d6a49baa1104"
+Parent: "b80107af-af9b-43a8-bef3-966bf1e9a542"
+Template: "5da3844c-1111-422d-a5ad-faef2b22ef2e"
+Path: /sitecore/content/HeadlessTenant/Lighthouse/Data/Search/Radius Filter/Radius Scheme Miles
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200514T191113Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bd881ab4-e64d-4862-adbb-eb75663a8514"
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200514T191113Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ed6b1804-3d09-416c-b5c4-990b1f00e3e0"
+  - Version: 3
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200514T191113Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "95b7b66f-9011-40ec-a55f-ace817895eac"
+  - Version: 4
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200514T191113Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1e0c5e43-d800-476d-80c7-d0d1f2c267ed"

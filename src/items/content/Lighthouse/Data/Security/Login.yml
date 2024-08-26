@@ -1,0 +1,40 @@
+﻿---
+ID: "8ea29802-a024-4f93-beea-b96d914253fc"
+Parent: "51e3106e-c20d-45d7-a51f-8f7e94391369"
+Template: "abed54dc-4f78-40dd-ac56-2289c9c849d8"
+Path: /sitecore/content/HeadlessTenant/Lighthouse/Data/Security/Login
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171129T134735Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bf7d92d3-ecbe-4053-8f63-54c2df0273ad"
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171129T134735Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "98931c78-ca06-4b7c-843a-986c95f2d578"
+  - Version: 3
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171129T134735Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1cfb5eac-f92a-41cc-ab35-a2aa3e5f2e34"
+  - Version: 4
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171129T134735Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2acbbf42-8026-4aeb-b9c7-f7275498faf4"

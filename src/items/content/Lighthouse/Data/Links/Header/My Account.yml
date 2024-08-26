@@ -1,0 +1,79 @@
+﻿---
+ID: "f616ea7e-bf1e-4760-b09f-d1fe67d13e65"
+Parent: "0a4756a1-9c3f-4a45-b83e-1e3fe4947198"
+Template: "e24e0789-a058-48bf-abb6-c69c0e60b6b7"
+Path: /sitecore/content/HeadlessTenant/Lighthouse/Data/Links/Header/My Account
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180326T032100Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "33f4bfab-f8ad-45d2-8610-dbe43708bcca"
+    - ID: "dd05144a-bd66-4ea3-956a-4b7104daaba3"
+      Hint: Link
+      Value: |
+        <link id="{C8121F23-0CED-4828-8F8B-994D27F1CC7E}" querystring="" linktype="internal" text="My Account" anchor="" url="/Demo SXA Sites/LighthouseLifestyle/home/account/portal" title="" class="" target="" />
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180326T032100Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4e66dd90-71e9-4a3d-8052-48d1b0639034"
+    - ID: "dd05144a-bd66-4ea3-956a-4b7104daaba3"
+      Hint: Link
+      Value: |
+        <link id="{C8121F23-0CED-4828-8F8B-994D27F1CC7E}" querystring="" linktype="internal" text="My Account" anchor="" url="/Demo SXA Sites/LighthouseLifestyle/home/account/portal" title="" class="" target="" />
+  - Version: 3
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180326T032100Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "69a2def9-b0e8-4d78-98e2-6212a9a39f57"
+    - ID: "dd05144a-bd66-4ea3-956a-4b7104daaba3"
+      Hint: Link
+      Value: |
+        <link id="{C8121F23-0CED-4828-8F8B-994D27F1CC7E}" querystring="" linktype="internal" text="My Account" anchor="" url="/Demo SXA Sites/LighthouseLifestyle/home/account/portal" title="" class="" target="" />
+  - Version: 4
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180326T032100Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "96521592-276a-4b91-a740-53677f8b552f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240820T073841Z
+    - ID: "dd05144a-bd66-4ea3-956a-4b7104daaba3"
+      Hint: Link
+      Value: |
+        <link class="" id="{E8B804F3-AD5C-429E-9987-0DEB1E21C8AD}" querystring="" anchor="" title="" linktype="internal" text="My Account" url="/HeadlessTenant/Lighthouse/home/account/portal" />

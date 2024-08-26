@@ -1,0 +1,12 @@
+﻿---
+ID: "29056c3a-2089-4d74-be50-41b9f7a1be58"
+Parent: "a65821d0-ca2a-410e-946a-f8df5626e6dc"
+Template: "df608f99-aaa5-428d-a4ef-ca92e5f291d3"
+Path: /sitecore/content/HeadlessTenant/Lighthouse/Data/Flashes
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+  - Version: 2
+  - Version: 3
+  - Version: 4

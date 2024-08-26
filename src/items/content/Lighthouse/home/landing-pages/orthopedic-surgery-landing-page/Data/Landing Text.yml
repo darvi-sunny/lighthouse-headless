@@ -1,0 +1,33 @@
+﻿---
+ID: "a6a69734-3e6b-4c33-a643-86facfcec9fc"
+Parent: "1fa268ad-6d68-4012-928f-c50981e34a38"
+Template: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
+Path: "/sitecore/content/HeadlessTenant/Lighthouse/home/landing-pages/orthopedic-surgery-landing-page/Data/Landing Text"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210621T165429Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\superuser
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: |
+        <span style="background-color: #ffffff; color: #474747;">Joint pain is a common complaint with many causes, affecting millions of Americans every day. There are several treatments available for joint pain, depending on how severe your discomfort is. If your pain is stopping you from doing the things you love, it’s time to seek medical help.</span>
+        <p style="color: #474747; background-color: #ffffff; margin-bottom: 1em;">These complex orthopedic services offer a comprehensive, multidisciplinary approach to diagnosing and treating musculoskeletal disease, including bone and soft tissue cancer, complex joint reconstruction and joint revision surgery caused by many conditions, including infection, improper implant alignment, implant loosening and more.</p>
+        <div id="fpCE_version" style="display:none;">10.1.1</div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c5ab2fca-bcab-4fb1-a606-80e269e54b16"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240820T080428Z

@@ -1,0 +1,44 @@
+﻿---
+ID: "6ee9ed8f-7d10-494a-80c5-8df96afa3b49"
+Parent: "72598758-47ee-413e-a640-3a0777bb3dea"
+Template: "643a85f5-c9f1-4836-b17b-35ade22d03d3"
+Path: /sitecore/content/HeadlessTenant/Lighthouse/Data/Heros/Category Heros/Visitor and Families/Visitor
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201223T162738Z
+    - ID: "440b5413-5322-4166-9fbe-580f70973751"
+      Hint: HeroTitle
+      Value: Visitor and Families
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\superuser
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "de02b2ec-cb97-4876-a8e7-cebea91ace7d"
+    - ID: "9c385368-a554-4a92-9a8d-37f3ef3a09f4"
+      Hint: HeroImage
+      Value: 
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20201223T162738Z
+    - ID: "440b5413-5322-4166-9fbe-580f70973751"
+      Hint: HeroTitle
+      Value: Visitor and Families
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\superuser
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fe26c86d-4ab1-4222-bb22-c884bb753053"
+    - ID: "9c385368-a554-4a92-9a8d-37f3ef3a09f4"
+      Hint: HeroImage
+      Value: 
